@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.x.x" type="plugin" group="system">
+ <name>plg_system_masker</name>
+ <creationDate>5 Nov 2024</creationDate>
+ <copyright>TechJoomla</copyright>
+ <version>1.0</version>
+ <description>Masker Confidential Data Plugin</description>
+ <files>
+ <filename plugin="masker">masker.php</filename>
+ </files>
+<languages folder="language">
+	<language tag="en-GB">en-GB/en-GB.plg_system_masker.ini</language>
+	<language tag="en-GB">en-GB/en-GB.plg_system_masker.sys.ini</language>
+</languages>
+</extension>
